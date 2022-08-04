@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Welcome to CI/CD  jenkins session</h2>
+<h2>Thanks for attending session</h2>
 </body>
 </html>
