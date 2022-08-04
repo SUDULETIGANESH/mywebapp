@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>changing the content</h2>
+<h2>thanks for training us</h2>
 </body>
 </html>
